@@ -1,0 +1,9 @@
+Python 3.6 +
+Pandas
+NumPy
+Scipy 
+Matplotlib 
+Seaborn
+SQLalchemy 
+Scikit-learn 
+
