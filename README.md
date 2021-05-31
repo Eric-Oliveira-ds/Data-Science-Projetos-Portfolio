@@ -1,6 +1,6 @@
 # Projetos de Portfolio
 
-##⚠ Atenção, caso os códigos não sejam exibidos nas respectivas páginas dos projetos, basta copiar o link do projeto aqui e colar neste [site](https://nbviewer.jupyter.org/), é bastante prático, após a colagem é "Go" e os códigos ou um repositório serão exibidos.
+⚠ Atenção, caso os códigos não sejam exibidos nas respectivas páginas dos projetos, basta copiar o link do projeto aqui e colar neste [site](https://nbviewer.jupyter.org/), é bastante prático, após a colagem é "Go" e os códigos ou um repositório serão exibidos.
 
 ## **Projeto** - [Predição de notas de estudantes](https://github.com/Eric-Oliveira-ds/Data-Science-Projetos-Portfolio/tree/main/ESTUDANTES) :
 **A secretaria de educação da cidade do Porto em Portugal estava precisando de alguém para analisar dados de uma pesquisa feita com os alunos. Enquanto Eric estava navegando pela internet avistou um anúncio onde informava a procura de um profissional com habilidades de análise de dados. Logo se indicou como voluntário, surgiu um desafio de obter informações valiosas dos dados a fim de melhorar a performance dos alunos. Eric propôs uma ferramenta que prediz a nota do terceiro ano do ensino médio do aluno, para que os professores tomem decisões antecipadas de como criar estratégias de ensino para que a performance dos alunos sejam melhoradas.**
