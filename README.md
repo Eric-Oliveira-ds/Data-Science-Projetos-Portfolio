@@ -1,6 +1,6 @@
 # Projetos de Portfólio
 
-## **⚠ Clica nos links em azul visitante, para quê seja redirecionado para os projetos, serão renderizados sem problemas!🆗**
+## **⚠ Clica nos links em azul visitante, para quê seja redirecionado para os projetos, serão renderizados sem problemas!**
 
 ## **Projeto-Clusterização** - [Segmentação de clientes do E-commerce](https://nbviewer.jupyter.org/github/Eric-Oliveira-ds/Data-Science-Projetos-Portfolio/tree/main/SEGMENTA%C3%87%C3%83O_DE_E-COMMERCE/):
 **A equipe de marketing da "Alegria Festas SA", deseja encontrar clientes significativos para a empresa, que fazem grandes compras de seus produtos favoritos. A organização deseja lançar um programa de fidelidade para os clientes de alto valor após a identificação dos mesmos. Más o time de marketing não tem conhecimento em análises avançadas de dados, então foi solicitado ao time de dados a resolução deste problema. Eric faz parte do time de cientistas de dados da empresa "Alegria Festas SA", que precisa determinar quem são os clientes elegíveis para participar do programa de fidelidade. Em posse dessa lista, o time de Marketing fará uma sequência de ações personalizadas e exclusivas ao grupo, de forma a aumentar o faturamento e a frequência de compra.**
